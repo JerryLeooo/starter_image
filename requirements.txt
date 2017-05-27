@@ -116,3 +116,4 @@ Werkzeug==0.12.1
 wrapt==1.10.10
 WTForms==2.1
 yapf==0.16.1
+xlrd==1.0.0
