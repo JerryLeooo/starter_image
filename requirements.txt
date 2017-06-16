@@ -67,6 +67,7 @@ mock==2.0.0
 mockredispy==2.9.3
 oauth2==1.9.0.post1
 oauthlib==2.0.2
+olefile==0.44
 packaging==16.8
 paramiko==1.17.2
 passlib==1.6.5
@@ -76,6 +77,7 @@ pbr==1.10.0
 pep8==1.7.0
 pexpect==4.2.1
 pickleshare==0.7.4
+Pillow==4.1.1
 prompt-toolkit==1.0.14
 psycopg2==2.7.1
 ptyprocess==0.5.1
@@ -91,6 +93,7 @@ pytest-cov==2.5.1
 python-dateutil==2.6.0
 python-editor==1.0.3
 python-twitter==3.1
+python-wordpress-xmlrpc==2.3
 pytz==2017.2
 raven==6.0.0
 redis==2.10.5
@@ -115,5 +118,5 @@ WebTest==2.0.21
 Werkzeug==0.12.1
 wrapt==1.10.10
 WTForms==2.1
-yapf==0.16.1
 xlrd==1.0.0
+yapf==0.16.1
